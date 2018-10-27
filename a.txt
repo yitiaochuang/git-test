@@ -4,3 +4,4 @@ dsg
 sf
 master commit
 github
+github pull
